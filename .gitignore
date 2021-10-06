@@ -1,0 +1,5 @@
+
+jaffle-shop/target/
+jaffle-shop/dbt_modules/
+jaffle-shop/logs/
+dtb-env/
